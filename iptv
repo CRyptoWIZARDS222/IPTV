@@ -19,3 +19,5 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6277822412001/69cef28
 NONE 
 #EXTINF:-10,KannanteRadha2
 NONE 
+
+pytest==5.3.2
