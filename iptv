@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Santhwanam1
-NONE 
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278052380001/7102790f-15ef-426a-9c46-c52191656b40/6s/master.m3u8?fastly_token=NjE3MTFiYTlfY2JmMmEwY2NiZGUxOTg4ZTMxOGUzOGU3N2U5MTk5NjU2ZTEzZTk5OWM1MWI3Y2VkNDE4YTE3YjM2MmIyODJiMQ%3D%3D
 #EXTINF:-2,Santhwanam2
-NONE
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278052380001/4c5cfa9d-0e9e-42eb-bffb-5795e2c38230/6s/master.m3u8?fastly_token=NjE3MTFlMjhfNmM4MGQzOGUyMGZlNzVlMGYzZDBlMTdhZjhjOGUwOTM1YjE1YzVmOTlmN2JiNTU3MmRmMDU3ZjdiMWQ3MDM0ZA%3D%3D
 #EXTINF:-3,Kudumbavilakku1
-NONE 
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278052380001/4d16711c-aeaf-430c-92b2-b4bcb2a7ecf4/6s/master.m3u8?fastly_token=NjE3MTIwZDRfZTZjMjZiMWMyOWI4OTI4MGJmMjg2NWZmMzZmMmY4MmY1YTNlZDU0YmE1MzhmN2ZhYTcwNGI1OWExYzYzN2I1Yw%3D%3D
 #EXTINF:-4,Kudumbavilakku2
-NONE
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278052380001/89069532-dd2f-43d2-9cee-8c50999dc4b2/6s/master.m3u8?fastly_token=NjE3MTIxNTBfMTMyY2VlZDFmYjk2MGNlZjc5OTFhM2Q5ZmZhMjZhODliZmFhYWIwNWRkYTcyODE1MmQ5NDdjM2U4NDU2MzUzNQ%3D%3D
 #EXTINF:-5,Mounaragam1
 NONE 
 #EXTINF:-6,Mounaragam2
