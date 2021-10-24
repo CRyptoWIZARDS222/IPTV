@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Santhwanam1
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278269763001/ab37a305-e9da-4220-9662-962c711cc321/6s/master.m3u8?fastly_token=NjE3NDllNTRfNWE2ODdiYTEwYjBjNjM3N2JmZTQ5N2QxYjNmN2I4NzU5NDJhYzY3OGVmOWJiYWQ3NWU0ZTljNjNkNTMyYWJlZQ%3D%3D
+NONE 
 #EXTINF:-2,Santhwanam2
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278269763001/7263254c-5f94-4909-a150-a654cb446dda/6s/master.m3u8?fastly_token=NjE3NDk3MWZfZjljMDJiMjg2OTFhMGJlYjdhODU0MjRlY2FmMzYzZGE2ODllMmNmNjgyY2VmYmRjZTYzMjY2ZTkyOTlmYmI3MQ%3D%3D
+NONE
 #EXTINF:-3,Kudumbavilakku1
 NONE 
 #EXTINF:-4,Kudumbavilakku2
@@ -16,10 +16,10 @@ NONE
 #EXTINF:-8,Padathapainkili2
 NONE
 #EXTINF:-9,KannanteRadha1
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278269764001/3ae0c373-873c-4e88-802a-3e1a5b5cf077/6s/master.m3u8?fastly_token=NjE3NDllYjNfNzVjNGFjMGY1OGI4Nzc4YWJmYTZkMTQzNTE0NmFhN2I2MTkyYjAxOGU2ZTFmZTQwYjI1YWRjMzhiZmFjMjJkZA%3D%3D
+NONE 
 #EXTINF:-10,KannanteRadha2
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278269764001/70621f81-b311-47db-87ae-eec41348f607/6s/master.m3u8?fastly_token=NjE3NDllODVfMzJiNjAzNjJiMzgzNzVjZGQ5NWIzMjQ2Y2M4NWNhOWM3NGY4YmI1ZTRhNDMyMzhmMzBjMjczMzIzOGQxZTUyMA%3D%3D
+NONE
 #EXTINF:-11,Amma Ariyathe1
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278269763001/529c2aa1-765f-4ade-ac72-827290904cf8/6s/master.m3u8?fastly_token=NjE3NDllNmFfOTEyNTYwNTIzN2Q2MDM5MTcxZTkyNjdkZWQwNjc1OGFlNTg0ODgzN2EzYTUxNDkxOTdhYjU5Mjc2MWQ1Y2ExNg%3D%3D
+NONE 
 #EXTINF:-12,Amma Ariyathe2
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278269764001/4ca50c02-0960-4760-a907-3698b42b03ec/6s/master.m3u8?fastly_token=NjE3NDllMzdfNGM3ZTVjMTI3NGM2NTMwODJkMDkwNGEyZGVmYTE2YzczNzc3MTM0ZjcyZTA5M2U3MmJhZGMyNGE3NmVhNGY0Mw%3D%3D
+NONE
