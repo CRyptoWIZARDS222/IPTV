@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Santhwanam1
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278629666001/4b4dc02d-be82-4d67-bc05-8af08e0e637b/6s/master.m3u8?fastly_token=NjE3NzJiZWZfZTY2MTBlMGQyZjJmOTNlMWQ2MjEzMmYxMjU3ODlkNDY4M2IxY2VkMjM3NjA5ZTIzY2FmZTUwZGQ1YmJjNzczZg%3D%3D
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278629666001/4b4dc02d-be82-4d67-bc05-8af08e0e637b/6s/master.m3u8?fastly_token=NjE3NzJlNzRfOWY5NzQ5NzliYjRhNThiYjk2ZTQ0MTg2Mjk1YTVkZGQ2OTZhY2I5NzkxNTg0YmUzZGFlYjE4ODBjMTFjOTliMQ%3D%3D
 #EXTINF:-2,Santhwanam2
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278629666001/da980bc7-0d80-407b-a731-38434e351776/6s/master.m3u8?fastly_token=NjE3NzJiOTdfMTg3MzAwZWU2ZWNjMjcyODQ2ZjU3NDA4MTQ5YjFkNjA5ZWVlOTExZmM1OWRlYmI4NjYwNDA2ZDk3YWZiYzBiZQ%3D%3D
 #EXTINF:-3,Kudumbavilakku1
@@ -8,7 +8,7 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278629666001/ee2eb6b
 #EXTINF:-4,Kudumbavilakku2
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278629666001/b387b06f-24f2-4aa0-96e7-88495b8ad544/6s/master.m3u8?fastly_token=NjE3NzJjZDFfZGQxZjgzN2I1MjI2MTQ0OGZlYzYxMWQ0Mjk0NjM0ODQwNzg0NTUwMzllZjFiMTUxMGM4NjJjMDE1OWM4ODQxMg%3D%3D
 #EXTINF:-5,Mounaragam1
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278629667001/1142330a-0334-4adb-bb05-a7565f288677/6s/master.m3u8?fastly_token=NjE3NzJiZjhfYWM5NjgzMGUyNDU2MjFmNTlkNzI2ODkwZDA1YjBjOGJhZmUyMDMwMTE3YTkwMTgwNDBkNDllZjI0YzExNzMxNQ%3D%3D
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278629667001/1142330a-0334-4adb-bb05-a7565f288677/6s/master.m3u8?fastly_token=NjE3NzJkN2NfYWEyY2UzMTc0MzU1Mjk0ODZlODQ5YmUyMDczMGQ5ZDIzYmIwY2U4Njc1ZDRjNDlmMDA3MWM5NmJlNjhlZTE3MQ%3D%3D
 #EXTINF:-6,Mounaragam2
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6278629667001/4c3bf61d-cb4f-4a81-b262-09d883b252f2/6s/master.m3u8?fastly_token=NjE3NzJjMmZfN2YwMTU4NjM0OTliY2VhMDAyZTlhNjdiZmFjNjBkN2FmOGUwMTQ3MmQ2YmQ2MzM3ZjM1MDViZGI1MTM5NTIyNA%3D%3D
 #EXTINF:-7,Padathapainkili1
